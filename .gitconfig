@@ -1,0 +1,9 @@
+[user]
+	name = mitraiyer
+	email = mitra.0713@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
